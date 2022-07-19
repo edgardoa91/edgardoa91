@@ -1,6 +1,4 @@
 ### Ohh hello there 👋
-![](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
-
 #### I'm a Full-Stack Developer working in the USA.
 
 ##### NOW
